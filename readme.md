@@ -1,6 +1,4 @@
-Repository moved to git@codeberg.org/randogoth/bluefin-icons.git
-
-<img src="bluefin.png" width="48" height="48">
+Repository moved to [codeberg.org/randogoth/bluefin-icons.git](http://codeberg.org/randogoth/bluefin-icons.git)
 
 # Auto GRUB Class Setup for Bluefin
 
